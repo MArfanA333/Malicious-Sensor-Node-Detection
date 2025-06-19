@@ -16,7 +16,7 @@ By combining classical models like Random Forest and SVM with advanced models li
 ## 📁 Folder Structure
 
 ```plaintext
-📁 your-folder/
+📁 Malicious-Sensor-Node-Detection/
 ├── Project_Code.R # File contains the R code of the project
 └── README.md # This File
 ```
